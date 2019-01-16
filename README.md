@@ -8,6 +8,10 @@ This is an example to show the different parts of the Git repository and various
 
 ## Purpose
 
+To provide simple examples for Git training demos.
+
 ## Deployment
+
+Can on any web server or even local file system.
 
 ## How to Contribute

@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Git and Githib together
+This is a simple website project for showing how to use Git and Githib together. Adding line for rebasing example.
 
 ## Intorduction
 
@@ -16,7 +16,7 @@ Can on any web server or even local file system.
 
 ## How to Contribute
 
-Please fork this repo and then issue Pull Requests for review	
+Please fork this repo and then issue Pull Requests for review
 
 ### Copyright
 
